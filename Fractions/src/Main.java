@@ -4,9 +4,9 @@
  */
 public class Main {
     public static void main(String[] arg){
-        Fraction myObj=new Fraction(5,5,6);
+        //Fraction myObj=new Fraction(5,5,6);
         //System.out.println(myObj);
-        myObj=new Fraction(5,6);
+        Fraction myObj=new Fraction(5,6);
         Fraction myObj2=new Fraction(2,3,5);
 
         System.out.println("Addition:");

@@ -138,7 +138,7 @@ public class Fraction {
     }
     private void simplify(){
         if(this.numerator<0){
-            while(this.numerator<0 && this.fullNum>0){
+            while(this.numerator<0){
                 this.numerator+=this.denominator;
                 this.fullNum--;
             }
