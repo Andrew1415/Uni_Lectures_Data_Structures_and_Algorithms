@@ -4,6 +4,7 @@ public class Trainee extends StaffMember{
         super(name, surname, phone);
     }
 
+
     @Override
     public double pay() {
         return 0;

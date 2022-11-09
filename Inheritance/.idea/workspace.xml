@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc83df04-a2a9-42dd-9938-dfce81a8c57a" name="Changes" comment="">
+    <list default="true" id="524f01f5-dd05-4bd8-8ea6-0a294601d3a5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Queue/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Queue/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Queue/.idea/modules.xml" afterDir="false" />
@@ -10,19 +10,13 @@
       <change afterPath="$PROJECT_DIR$/../Queue/src/Item.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Queue/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Queue/src/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fractions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fractions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/src/Trainee.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/Trainee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -30,30 +24,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HDenlkoTbAf4Npb55Zuh0XPSBV" />
+  <component name="ProjectId" id="2HGi7VCgzq2hHKTwJa0xQQ2lqMj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/andri/OneDrive - ku.lt/Uni_HomeWork/2_Kursas_3_Pusmetis/2022_Duomenu_Strukturos_ir_algoritmai/Uni_Lectures_Data_Structures_and_Algorithms/Inheritance"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc83df04-a2a9-42dd-9938-dfce81a8c57a" name="Changes" comment="" />
-      <created>1667824253215</created>
+      <changelist id="524f01f5-dd05-4bd8-8ea6-0a294601d3a5" name="Changes" comment="" />
+      <created>1667917654025</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667824253215</updated>
-      <workItem from="1667824254979" duration="2176000" />
-      <workItem from="1667840783570" duration="11000" />
+      <updated>1667917654025</updated>
+      <workItem from="1667917655451" duration="62000" />
     </task>
     <servers />
   </component>
